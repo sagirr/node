@@ -1,0 +1,18 @@
+{
+  "homepage": "https://sagirr.github.io/node",
+  "name": "sagir",
+  "version": "1.0.1",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "test",
+    "myscript":"ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagirr/node.git"
+  },
+  "author": "sagir",
+  "license": "ISC"
+}
